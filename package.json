@@ -1,0 +1,25 @@
+{
+  "name": "monclasseur",
+  "version": "1.0.0",
+  "description": "application web permettant la création et l'édition de classeur personnel personalisable",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabien-Verges/MonClasseur.git"
+  },
+  "keywords": [
+    "classeur"
+  ],
+  "author": "Fabien Vergès",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabien-Verges/MonClasseur/issues"
+  },
+  "homepage": "https://github.com/Fabien-Verges/MonClasseur#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
